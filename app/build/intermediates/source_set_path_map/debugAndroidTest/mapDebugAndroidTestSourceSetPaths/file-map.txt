@@ -1,0 +1,38 @@
+com.example.jetjokes.test.app-lifecycle-viewmodel-release-0 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\01aa3241f1f230db0d99995336b6481a\transformed\lifecycle-viewmodel-release\res
+com.example.jetjokes.test.app-ui-geometry-release-1 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\03273b0efb9b5112fd04d2f74633a0ab\transformed\ui-geometry-release\res
+com.example.jetjokes.test.app-ui-release-2 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\17a50832fc8caada1c1273343d47b8b0\transformed\ui-release\res
+com.example.jetjokes.test.app-ui-graphics-release-3 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\2271d74a5da16deeecf0714b9ed816dc\transformed\ui-graphics-release\res
+com.example.jetjokes.test.app-startup-runtime-1.1.1-4 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\25dd99318eb15de33e5f6c87f97b130c\transformed\startup-runtime-1.1.1\res
+com.example.jetjokes.test.app-ui-util-release-5 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\2caf7514122f48cf81b4c05291b810d3\transformed\ui-util-release\res
+com.example.jetjokes.test.app-runtime-saveable-release-6 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\4a6905d638aa94bd2c670b522f325379\transformed\runtime-saveable-release\res
+com.example.jetjokes.test.app-ui-unit-release-7 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\4ceebad2c7d7593f569cb2d73d339209\transformed\ui-unit-release\res
+com.example.jetjokes.test.app-customview-poolingcontainer-1.0.0-8 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\4d363e5b7127a7e14267ba64d3fddddf\transformed\customview-poolingcontainer-1.0.0\res
+com.example.jetjokes.test.app-ui-text-release-9 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\4dc015e379e76f477fa6cb01279600a9\transformed\ui-text-release\res
+com.example.jetjokes.test.app-tracing-1.2.0-10 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\5c8092bd80a38b82e48052f9472c8632\transformed\tracing-1.2.0\res
+com.example.jetjokes.test.app-lifecycle-runtime-release-11 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\687706654022ca006ca74b1fd201b918\transformed\lifecycle-runtime-release\res
+com.example.jetjokes.test.app-core-1.16.0-12 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\6d12a0b4838bc292a8cc7818af659240\transformed\core-1.16.0\res
+com.example.jetjokes.test.app-activity-ktx-1.10.1-13 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\6d53be89ef52d7cd02ec627bc012d3a6\transformed\activity-ktx-1.10.1\res
+com.example.jetjokes.test.app-core-ktx-1.16.0-14 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\7220f8529798f0a8bbb63a1d65f12980\transformed\core-ktx-1.16.0\res
+com.example.jetjokes.test.app-activity-compose-1.10.1-15 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\770a783afd24b35627858891ff9987d4\transformed\activity-compose-1.10.1\res
+com.example.jetjokes.test.app-lifecycle-viewmodel-ktx-2.9.1-16 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\7a89f1eb8c4f5ee834b38ad453c4b10a\transformed\lifecycle-viewmodel-ktx-2.9.1\res
+com.example.jetjokes.test.app-ui-test-junit4-release-17 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\812de835a47747237baf6dd4eb9851ad\transformed\ui-test-junit4-release\res
+com.example.jetjokes.test.app-lifecycle-runtime-compose-release-18 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\92fd56811aa660710fefe089ccb65c0a\transformed\lifecycle-runtime-compose-release\res
+com.example.jetjokes.test.app-ui-test-release-19 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\931caf443a1e03ab2ba88070eefc6571\transformed\ui-test-release\res
+com.example.jetjokes.test.app-profileinstaller-1.4.0-20 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\9dc4bae28937096689168ff74049e800\transformed\profileinstaller-1.4.0\res
+com.example.jetjokes.test.app-savedstate-release-21 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\9f7b6c41329125a51d6c6854df670008\transformed\savedstate-release\res
+com.example.jetjokes.test.app-lifecycle-process-2.9.1-22 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\a0d26c586bb49c21b750fb679b6cf49a\transformed\lifecycle-process-2.9.1\res
+com.example.jetjokes.test.app-graphics-path-1.0.1-23 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\a276025d92d76d8dfe2efe9c924b5aa9\transformed\graphics-path-1.0.1\res
+com.example.jetjokes.test.app-runtime-release-24 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\b0cb1970431e08322ef726995d603d0d\transformed\runtime-release\res
+com.example.jetjokes.test.app-savedstate-ktx-1.3.0-25 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\bcfa2074e353a70765368f1aede86367\transformed\savedstate-ktx-1.3.0\res
+com.example.jetjokes.test.app-core-1.6.1-26 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\bd8406fb4630dc6bf66785294459c6e6\transformed\core-1.6.1\res
+com.example.jetjokes.test.app-lifecycle-viewmodel-savedstate-release-27 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\bd88c67a815eef2d59452f9f96d98f53\transformed\lifecycle-viewmodel-savedstate-release\res
+com.example.jetjokes.test.app-annotation-experimental-1.4.1-28 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\c9c89f9d5bcc6e5fe7b845030258387d\transformed\annotation-experimental-1.4.1\res
+com.example.jetjokes.test.app-activity-1.10.1-29 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\ce0bf18452cbad5ef4b14bfc81005b89\transformed\activity-1.10.1\res
+com.example.jetjokes.test.app-core-viewtree-1.0.0-30 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\df8ca55c378cf5c7682471a0f2eb4161\transformed\core-viewtree-1.0.0\res
+com.example.jetjokes.test.app-emoji2-1.4.0-31 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\e752f5f42ee2c097d4b327e6092e8689\transformed\emoji2-1.4.0\res
+com.example.jetjokes.test.app-core-runtime-2.2.0-32 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\ea47f88330e1cb6e2800bf74b1c6ab03\transformed\core-runtime-2.2.0\res
+com.example.jetjokes.test.app-lifecycle-livedata-core-2.9.1-33 C:\Users\DEBAN\.gradle\caches\8.11.1\transforms\fd25a9bfe068e36ff3fb1a701586944b\transformed\lifecycle-livedata-core-2.9.1\res
+com.example.jetjokes.test.app-androidTest-34 D:\Android Project Storage\JetJokes\app\build\generated\res\resValues\androidTest\debug
+com.example.jetjokes.test.app-mergeDebugAndroidTestResources-35 D:\Android Project Storage\JetJokes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.jetjokes.test.app-mergeDebugAndroidTestResources-36 D:\Android Project Storage\JetJokes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.jetjokes.test.app-debugAndroidTest-37 D:\Android Project Storage\JetJokes\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
